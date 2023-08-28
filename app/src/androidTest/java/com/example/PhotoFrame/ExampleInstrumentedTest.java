@@ -1,4 +1,4 @@
-package com.example.weather;
+package com.example.PhotoFrame;
 
 import android.content.Context;
 

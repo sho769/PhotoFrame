@@ -1,4 +1,4 @@
-package com.example.weather;
+package com.example.PhotoFrame;
 
 import org.junit.Test;
 
